@@ -1,7 +1,7 @@
 const config = {
   server: {
-    port: 3000,
-    hostname: "localhost",
+    port: process.env.SERVER_PORT,
+    hostname: process.env.SERVER_HOSTNAME,
   },
 };
 
