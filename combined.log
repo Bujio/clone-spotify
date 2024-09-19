@@ -7,3 +7,9 @@
 {"level":"info","message":"::1 - - [19/Sep/2024:08:15:52 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
 {"level":"info","message":"::1 [2024-09-19T08:15:54.913Z] - \"method / 304\n","service":"user-service"}
 {"level":"info","message":"::1 - - [19/Sep/2024:08:15:54 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T08:20:46.445Z] - \"method / 304\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:08:20:46 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T08:24:51.317Z] - \"method / 304\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:08:24:51 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T08:25:10.206Z] - \"method /w 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:08:25:10 +0000] \"GET /w HTTP/1.1\" 500 1139 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
