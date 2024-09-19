@@ -1,7 +1,9 @@
 const router = require("express").Router();
 
-router.route("/playlists").get((req, res, next) => {
-  res.json({ message: "GET all task" });
-});
+const playlists = require("./playlists/routes");
+const users = require("./users/routes");
+
+router.use("/playlists", playlists);
+router.use("/users", users);
 
 module.exports = router;

@@ -53,3 +53,179 @@
 {"level":"info","message":"::1 - - [19/Sep/2024:10:10:40 +0000] \"GET /api/playlists HTTP/1.1\" 200 26 \"-\" \"PostmanRuntime/7.39.0\"\n","service":"user-service"}
 {"level":"info","message":"::1 [2024-09-19T10:15:38.899Z] - \"method /api/playlists 304\n","service":"user-service"}
 {"level":"info","message":"::1 - - [19/Sep/2024:10:15:38 +0000] \"GET /api/playlists HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T10:21:48.013Z] - \"method /api/playlists 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:10:21:48 +0000] \"GET /api/playlists HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T10:23:38.240Z] - \"method /api/playlists 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:10:23:38 +0000] \"GET /api/playlists HTTP/1.1\" 200 26 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T10:26:38.357Z] - \"method /api/users 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:10:26:38 +0000] \"GET /api/users HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T10:27:59.281Z] - \"method /api/users 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:10:27:59 +0000] \"GET /api/users HTTP/1.1\" 200 27 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T10:41:03.876Z] - \"method /api/playlists 304\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:10:41:03 +0000] \"GET /api/playlists HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T10:44:24.526Z] - \"method /api/playlists 304\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:10:44:24 +0000] \"GET /api/playlists HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T10:54:49.098Z] - \"method /api/playlists 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:10:54:49 +0000] \"GET /api/playlists HTTP/1.1\" 200 3754 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T10:56:47.297Z] - \"method /api/playlists 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:10:56:47 +0000] \"GET /api/playlists HTTP/1.1\" 200 27879 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T10:58:35.252Z] - \"method /api/playlists 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:10:58:35 +0000] \"GET /api/playlists HTTP/1.1\" 200 3754 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T10:59:33.052Z] - \"method /api/playlists 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:10:59:33 +0000] \"GET /api/playlists HTTP/1.1\" 200 8260 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:00:43.778Z] - \"method /api/playlists 400\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:00:43 +0000] \"GET /api/playlists HTTP/1.1\" 400 103 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:00:54.650Z] - \"method /api/playlists 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:00:54 +0000] \"GET /api/playlists HTTP/1.1\" 200 8260 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:02:11.804Z] - \"method /admin/propiedades/crear.php 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:02:11 +0000] \"GET /admin/propiedades/crear.php HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:07:25.608Z] - \"method /api/playlists 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:07:25 +0000] \"GET /api/playlists HTTP/1.1\" 200 8260 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:07:25.623Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:07:25 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/playlists\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:21:06.088Z] - \"method /api/v1/playlists/artist/?id=43ZHCT0cAZBISjO8DG9PnE 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:21:06 +0000] \"GET /api/v1/playlists/artist/?id=43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:22:09.637Z] - \"method /api/v1/playlists/artist/43ZHCT0cAZBISjO8DG9PnE 401\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:22:09 +0000] \"GET /api/v1/playlists/artist/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 401 104 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:26:32.158Z] - \"method /api/v1/playlists/artist/43ZHCT0cAZBISjO8DG9PnE -\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:26:32 +0000] \"GET /api/v1/playlists/artist/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" - - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:26:50.402Z] - \"method /api/v1/playlists/artist/43ZHCT0cAZBISjO8DG9PnE 401\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:26:50 +0000] \"GET /api/v1/playlists/artist/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 401 104 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:26:57.553Z] - \"method /api/v1/playlists/artist/43ZHCT0cAZBISjO8DG9PnE 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:26:57 +0000] \"GET /api/v1/playlists/artist/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 200 39635 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:27:19.333Z] - \"method /admin/propiedades/crear.php 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:27:19 +0000] \"GET /admin/propiedades/crear.php HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:28:28.884Z] - \"method /admin/propiedades/crear.php 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:28:28 +0000] \"GET /admin/propiedades/crear.php HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:32:00.427Z] - \"method /api/artists/43ZHCT0cAZBISjO8DG9PnE 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:32:00 +0000] \"GET /api/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 404 29 \"-\" \"PostmanRuntime/7.39.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:32:33.606Z] - \"method /api/v1/artists/43ZHCT0cAZBISjO8DG9PnE 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:32:33 +0000] \"GET /api/v1/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 404 29 \"-\" \"PostmanRuntime/7.39.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:32:54.358Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:32:54 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 200 39635 \"-\" \"PostmanRuntime/7.39.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:38:47.381Z] - \"method /api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:38:47 +0000] \"GET /api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:38:47.395Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:38:47 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:39:03.620Z] - \"method /api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:39:03 +0000] \"GET /api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:39:03.638Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:39:03 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:39:16.743Z] - \"method /api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:39:16 +0000] \"GET /api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:39:16.754Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:39:16 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:39:55.348Z] - \"method /api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:39:55 +0000] \"GET /api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:39:55.359Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:39:55 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artsits/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:40:08.493Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:40:08 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 200 39635 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:40:08.508Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:40:08 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:42:05.982Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 304\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:42:05 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:42:05.996Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:42:05 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:42:46.965Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 400\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:42:46 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 400 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:42:46.987Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:42:46 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:43:20.727Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 400\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:43:20 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 400 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:43:20.739Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:43:20 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:43:35.702Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:43:35 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 71 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:43:35.716Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:43:35 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:43:49.759Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 400\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:43:49 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 400 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:43:49.768Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:43:49 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:43:59.736Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 400\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:43:59 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 400 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:43:59.748Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:43:59 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:44:18.527Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 400\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:44:18 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 400 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:44:18.539Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:44:18 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:44:33.500Z] - \"method /api/v1/playlists/artists/?id=43ZHCT0cAZBISjO8DG9PnE 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:44:33 +0000] \"GET /api/v1/playlists/artists/?id=43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:44:33.515Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:44:33 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/?id=43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:44:42.121Z] - \"method /api/v1/playlists/artists/?43ZHCT0cAZBISjO8DG9PnE 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:44:42 +0000] \"GET /api/v1/playlists/artists/?43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:44:42.139Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:44:42 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/?43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:45:20.791Z] - \"method /api/v1/playlists/artists/?43ZHCT0cAZBISjO8DG9PnE 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:45:20 +0000] \"GET /api/v1/playlists/artists/?43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 404 29 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:45:20.804Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:45:20 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/?43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:45:27.043Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:45:27 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 200 39635 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:45:27.057Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:45:27 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:46:19.617Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:46:19 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 70 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:46:19.629Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:46:19 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:46:29.894Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:46:29 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 70 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:46:29.907Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:46:29 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:46:54.133Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:46:54 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:46:54.143Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:46:54 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:47:15.963Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:47:15 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:47:15.978Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:47:15 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:47:41.085Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:47:41 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:47:50.702Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:47:50 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 200 40886 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:47:50.719Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:47:50 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:48:44.194Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:48:44 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 200 39635 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:48:44.212Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:48:44 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:50:15.696Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 304\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:50:15 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:50:15.730Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:50:15 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:50:29.253Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 304\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:50:29 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:50:29.276Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:50:29 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:50:39.085Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 304\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:50:39 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:50:39.102Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:50:39 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:51:33.165Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:51:33 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 43 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:51:33.183Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:51:33 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:53:42.822Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:53:42 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 43 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:53:43.012Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:53:43 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 43 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:53:43.026Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:53:43 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:53:59.699Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:53:59 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 43 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:53:59.712Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:53:59 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:54:18.164Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 500\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:54:18 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 500 43 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:54:18.176Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:54:18 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:55:40.861Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:55:40 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 200 20840 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:55:40.875Z] - \"method /favicon.ico 404\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:55:40 +0000] \"GET /favicon.ico HTTP/1.1\" 404 29 \"http://localhost:3000/api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T11:58:17.713Z] - \"method /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE 200\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:11:58:17 +0000] \"GET /api/v1/playlists/artists/43ZHCT0cAZBISjO8DG9PnE HTTP/1.1\" 200 20840 \"-\" \"PostmanRuntime/7.39.0\"\n","service":"user-service"}
