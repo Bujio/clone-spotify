@@ -4,6 +4,8 @@ const requestId = require("request-id/express");
 
 const logger = require("./config/logger");
 
+const api = require("./api");
+
 // Init app
 const app = express();
 
@@ -14,9 +16,7 @@ app.use(
   morgan("combined", { stream: { write: (message) => logger.info(message) } })
 );
 
-app.get("/", (req, res, next) =>
-  res.json({ id: req.id, messaje: "Welcome to the API" })
-);
+app.use("/api", api);
 
 // No route found handler
 app.use((req, res, next) => {
@@ -29,11 +29,11 @@ app.use((req, res, next) => {
 
 //Error handler
 app.use((err, req, res, next) => {
-  const { message,statusCode = 500, level= 'error' } = err;
-  logger[level](log)
-  
-  res.status(statusCode)
-  res.json({message})
+  const { message, statusCode = 500, level = "error" } = err;
+  logger[level](log);
+
+  res.status(statusCode);
+  res.json({ message });
 });
 
 module.exports = app;
