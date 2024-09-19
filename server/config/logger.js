@@ -1,4 +1,12 @@
 const winston = require("winston");
+const morgan = require("morgan");
+const stripFinalNewline = require("strip-final-newline");
+
+stripFinalNewline("foo\nbar\n\n");
+//=> 'foo\nbar\n'
+
+stripFinalNewline(Buffer.from("foo\nbar\n\n")).toString();
+//=> 'foo\nbar\n'
 
 const logger = winston.createLogger({
   level: "info",
@@ -25,5 +33,21 @@ if (process.env.NODE_ENV !== "production") {
     })
   );
 }
+
+// Setup requests logger
+morgan.token("id", (req) => req.id);
+
+const requestFormat = ':remote-addr [:date[iso]] :id "method :url :status';
+const requests = morgan(requestFormat, {
+  stream: {
+    write: (message) => {
+      // Remove all line breaks
+      return logger.info(message);
+    },
+  },
+});
+
+// Attach to logger objetc
+logger.requests = requests;
 
 module.exports = logger;

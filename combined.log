@@ -1,2 +1,9 @@
 {"level":"warn","message":"Route not found","service":"user-service"}
 {"level":"warn","message":"Route not found","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:07:37:53 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:08:10:24 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:08:13:12 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T08:15:52.938Z] - \"method / 304\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:08:15:52 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}
+{"level":"info","message":"::1 [2024-09-19T08:15:54.913Z] - \"method / 304\n","service":"user-service"}
+{"level":"info","message":"::1 - - [19/Sep/2024:08:15:54 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"\n","service":"user-service"}

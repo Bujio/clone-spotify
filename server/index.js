@@ -1,16 +1,22 @@
 const express = require("express");
 const morgan = require("morgan");
+const requestId = require("request-id/express");
 
 const logger = require("./config/logger");
 
-const port = process.env.SERVER_PORT || 3000;
+// Init app
 const app = express();
 
+// Setup middleware
+app.use(requestId());
+app.use(logger.requests);
 app.use(
   morgan("combined", { stream: { write: (message) => logger.info(message) } })
 );
 
-app.get("/", (req, res, next) => res.json({ messaje: "Welcome to the API" }));
+app.get("/", (req, res, next) =>
+  res.json({ id: req.id, messaje: "Welcome to the API" })
+);
 
 // No route found handler
 app.use((req, res, next) => {
