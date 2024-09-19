@@ -4,7 +4,7 @@ const requestId = require("request-id/express");
 
 const logger = require("./config/logger");
 
-const api = require("./api");
+const api = require("./api/v1");
 
 // Init app
 const app = express();
@@ -17,6 +17,7 @@ app.use(
 );
 
 app.use("/api", api);
+app.use("/api/v1", api);
 
 // No route found handler
 app.use((req, res, next) => {
@@ -30,7 +31,7 @@ app.use((req, res, next) => {
 //Error handler
 app.use((err, req, res, next) => {
   const { message, statusCode = 500, level = "error" } = err;
-  logger[level](log);
+  logger.level;
 
   res.status(statusCode);
   res.json({ message });
